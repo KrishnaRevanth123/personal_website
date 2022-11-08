@@ -1,6 +1,6 @@
 ---
 date: '2019-05-1'
-title: 'Andriod developer'
+title: 'Andriod Developer'
 company: 'Thingtronics'
 location: 'Bangalore'
 range: 'May 2019- June 201'
