@@ -7,5 +7,7 @@ range: 'Aug 2021- Feb 2022'
 url: 'https://techolution.com/'
 ---
 
-- Developed the prototype of "Indoor Positioning System using BLE Beacons" by creating an app using Andriod Studio.
-- Our main aim is to provide or show the location based services inside the building, and shows the locations inside the area.
+- Got hands-on experience in building applications using spring boot,Java.
+- Understood the design patterns, goals and architecture of various technical issues.
+- Developed rest apis and took complete responsibility of one module of the project(backend)
+- Got familiarized with jira, atlasin bitbucket,prometheus
